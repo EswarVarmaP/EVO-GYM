@@ -10,7 +10,7 @@ The design and functionality of personal trainer websites are critical for attra
 
 In conclusion, personal trainers play a pivotal role in guiding individuals towards fitness success by providing personalized training, nutrition guidance, and interactive workout sessions. Understanding the evolving landscape of personal training services and the importance of professional boundaries is essential for delivering high-quality fitness services to clients.
 ## Design
-
+![WhatsApp Image 2024-03-11 at 21 14 48](https://github.com/EswarVarmaP/Virtual-Gains/assets/134736580/f830df98-2bd8-49b2-b2a8-8faee44109a3)
 ## Proposed Solution
 To optimize the effectiveness and appeal of a gym services website offering personal trainers, nutrition guidance, and interactive workout sessions, a comprehensive approach is essential. Here are key strategies to enhance the website and overall user experience:
 
