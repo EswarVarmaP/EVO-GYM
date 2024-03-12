@@ -14,8 +14,11 @@ In conclusion, personal trainers play a pivotal role in guiding individuals towa
 
 ## Requirements
 Front End Development
+
 Back End Development
+
 Payment Gateway
+
 Professionalized Dieticians & Trainers
 
 ## Proposed Solution
