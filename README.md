@@ -17,9 +17,13 @@ Front End Development
 
 Back End Development
 
+User Verification 
+
 Payment Gateway
 
 Professionalized Dieticians & Trainers
+
+Location Integration
 
 ## Proposed Solution
 To optimize the effectiveness and appeal of a gym services website offering personal trainers, nutrition guidance, and interactive workout sessions, a comprehensive approach is essential. Here are key strategies to enhance the website and overall user experience:
