@@ -13,6 +13,10 @@ In conclusion, personal trainers play a pivotal role in guiding individuals towa
 ![WhatsApp Image 2024-03-11 at 21 14 48](https://github.com/EswarVarmaP/Virtual-Gains/assets/134736580/f830df98-2bd8-49b2-b2a8-8faee44109a3)
 
 ## Requirements
+Front End Development
+Back End Development
+Payment Gateway
+Professionalized Dieticians & Trainers
 
 ## Proposed Solution
 To optimize the effectiveness and appeal of a gym services website offering personal trainers, nutrition guidance, and interactive workout sessions, a comprehensive approach is essential. Here are key strategies to enhance the website and overall user experience:
