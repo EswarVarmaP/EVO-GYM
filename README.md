@@ -14,7 +14,8 @@ The design and functionality of personal trainer websites are critical for attra
 
 In conclusion, personal trainers play a pivotal role in guiding individuals towards fitness success by providing personalized training, nutrition guidance, and interactive workout sessions. Understanding the evolving landscape of personal training services and the importance of professional boundaries is essential for delivering high-quality fitness services to clients.
 ## Design
-C:\Users\Eswar Varma Penmetsa\Pictures\Screenshots\Screenshot (182).png
+![Screenshot (182)](https://github.com/EswarVarmaP/Virtual-Gains/assets/134736580/816fc42b-39dd-4c63-bd00-b7b052be09f6)
+
 
 ## Requirements
 Front End Development
